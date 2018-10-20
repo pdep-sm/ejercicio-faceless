@@ -5,3 +5,7 @@
 ## Diagrama de Clases
 
 <img src="./Faceless.svg">
+
+## Resolución en Wollok
+
+[Faceless.wlk](https://github.com/pdep-sm/ejercicio-faceless/blob/master/src/faceless.wlk)
